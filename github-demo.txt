@@ -1,1 +1,1 @@
-Hello from GitHub
+My first Jenkins and GitHub integration test.
